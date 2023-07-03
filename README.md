@@ -1,4 +1,5 @@
 # fldigi-ssdv
+![image](https://github.com/radio-satellites/fldigi-ssdv/assets/114111180/a6bf4339-c8ea-4ded-83b4-ce99668473e5)
 
 Transmit SSDV images over HF using *any* mode in fldigi!
 
